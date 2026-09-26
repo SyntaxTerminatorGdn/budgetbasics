@@ -1,0 +1,162 @@
+{
+  "searchData": [
+    {
+      "id": 1,
+      "title": "What is Budgeting?",
+      "category": "Budgeting",
+      "keywords": [
+        "budget",
+        "budgeting",
+        "money",
+        "planning"
+      ],
+      "description": "Budgeting is the process of planning how you will use your income for expenses, savings, and other financial needs."
+    },
+    {
+      "id": 2,
+      "title": "What is a Need?",
+      "category": "Needs",
+      "keywords": [
+        "need",
+        "needs",
+        "essential",
+        "requirements"
+      ],
+      "description": "A need is something essential for daily life, such as food, basic clothing, education, and necessary transportation."
+    },
+    {
+      "id": 3,
+      "title": "What is a Want?",
+      "category": "Wants",
+      "keywords": [
+        "want",
+        "wants",
+        "optional",
+        "shopping"
+      ],
+      "description": "A want is something you would like to have but can live without, such as entertainment, luxury items, or unnecessary shopping."
+    },
+    {
+      "id": 4,
+      "title": "50-30-20 Budget Rule",
+      "category": "Budgeting",
+      "keywords": [
+        "50-30-20",
+        "budget rule",
+        "needs",
+        "wants",
+        "savings"
+      ],
+      "description": "The 50-30-20 rule is an educational budgeting guideline that suggests 50% for needs, 30% for wants, and 20% for savings."
+    },
+    {
+      "id": 5,
+      "title": "Savings Goals",
+      "category": "Saving",
+      "keywords": [
+        "saving",
+        "savings",
+        "goal",
+        "target",
+        "money"
+      ],
+      "description": "A savings goal defines how much money you want to save, how much you already have, and how much you plan to contribute each month."
+    },
+    {
+      "id": 6,
+      "title": "How to Avoid Overspending",
+      "category": "Spending",
+      "keywords": [
+        "overspending",
+        "spending",
+        "expenses",
+        "shopping"
+      ],
+      "description": "Planning expenses, tracking small purchases, and separating needs from wants can help reduce unnecessary spending."
+    },
+    {
+      "id": 7,
+      "title": "Impulse Buying",
+      "category": "Money Mistakes",
+      "keywords": [
+        "impulse",
+        "buying",
+        "shopping",
+        "overspending"
+      ],
+      "description": "Impulse buying means purchasing something without planning or considering whether it is actually needed."
+    },
+    {
+      "id": 8,
+      "title": "Small Expenses",
+      "category": "Money Mistakes",
+      "keywords": [
+        "small expenses",
+        "daily spending",
+        "expenses",
+        "tracking"
+      ],
+      "description": "Small daily expenses can add up over time, so tracking them can help you understand where your money goes."
+    },
+    {
+      "id": 9,
+      "title": "Expense Planner",
+      "category": "Expenses",
+      "keywords": [
+        "expense",
+        "expenses",
+        "planner",
+        "spending",
+        "cost"
+      ],
+      "description": "The Expense Planner allows users to add sample expenses, view planned spending, and calculate the remaining sample balance."
+    },
+    {
+      "id": 10,
+      "title": "Saving Tips",
+      "category": "Saving",
+      "keywords": [
+        "saving",
+        "tips",
+        "save money",
+        "savings"
+      ],
+      "description": "Set a clear savings goal, track your progress, and regularly contribute an amount that fits your budget."
+    }
+  ],
+
+  "categories": [
+    "All",
+    "Budgeting",
+    "Needs",
+    "Wants",
+    "Saving",
+    "Spending",
+    "Expenses",
+    "Money Mistakes"
+  ],
+
+  "searchRules": {
+    "searchFields": [
+      "title",
+      "category",
+      "keywords",
+      "description"
+    ],
+    "caseSensitive": false,
+    "noMatchMessage": "No results found. Try another keyword or category.",
+    "emptySearchMessage": "Please enter a keyword to search."
+  },
+
+  "filterOptions": {
+    "topics": [
+      "Budgeting",
+      "Needs",
+      "Wants",
+      "Saving",
+      "Spending",
+      "Expenses",
+      "Money Mistakes"
+    ]
+  }
+}

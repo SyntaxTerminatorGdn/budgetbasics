@@ -1,0 +1,39 @@
+{
+  "mistakes": [
+    {
+      "id": 1,
+      "title": "Impulse Buying",
+      "description": "Buying something without planning or considering whether it is actually needed.",
+      "scenario": "A student sees a new pair of headphones on sale and buys them immediately even though their current headphones work perfectly.",
+      "correctiveAction": "Wait before making an unplanned purchase and ask yourself if the item is a need or a want."
+    },
+    {
+      "id": 2,
+      "title": "Ignoring Small Expenses",
+      "description": "Not paying attention to small daily purchases because each expense seems insignificant.",
+      "scenario": "A student spends a small amount every day on snacks and drinks but does not include these purchases in their monthly budget.",
+      "correctiveAction": "Record small expenses and review them regularly because they can add up over time."
+    },
+    {
+      "id": 3,
+      "title": "Late Payments",
+      "description": "Forgetting or delaying payments that are due.",
+      "scenario": "A student forgets to pay an important bill on time because they did not keep track of the payment date.",
+      "correctiveAction": "Keep a list of payment dates and set reminders so important payments are not missed."
+    },
+    {
+      "id": 4,
+      "title": "Unused Subscriptions",
+      "description": "Continuing to pay for subscriptions or services that are rarely or never used.",
+      "scenario": "A student pays every month for a streaming service they have not used for several months.",
+      "correctiveAction": "Review subscriptions regularly and cancel services that are no longer useful."
+    },
+    {
+      "id": 5,
+      "title": "Spending Without a Plan",
+      "description": "Using money without deciding in advance how it should be divided between expenses and savings.",
+      "scenario": "A student spends most of their monthly allowance early in the month and has very little money left for transportation and education.",
+      "correctiveAction": "Create a simple monthly budget and divide your money into planned categories before spending."
+    }
+  ]
+}

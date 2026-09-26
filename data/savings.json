@@ -1,0 +1,80 @@
+{
+  "savingsGoals": {
+    "title": "Savings Goals",
+    "description": "Set a simple savings goal and estimate how long it may take to achieve it.",
+
+    "fields": [
+      {
+        "name": "goalName",
+        "label": "Goal Name",
+        "type": "text",
+        "placeholder": "e.g. New Laptop"
+      },
+      {
+        "name": "targetAmount",
+        "label": "Target Amount",
+        "type": "number",
+        "placeholder": "e.g. 60000"
+      },
+      {
+        "name": "currentSavings",
+        "label": "Current Savings",
+        "type": "number",
+        "placeholder": "e.g. 15000"
+      },
+      {
+        "name": "monthlyContribution",
+        "label": "Monthly Contribution",
+        "type": "number",
+        "placeholder": "e.g. 5000"
+      }
+    ],
+
+    "calculation": {
+      "remainingAmount": "targetAmount - currentSavings",
+      "estimatedMonths": "remainingAmount / monthlyContribution",
+      "progressPercentage": "(currentSavings / targetAmount) * 100"
+    },
+
+    "sampleGoal": {
+      "goalName": "New Laptop",
+      "targetAmount": 60000,
+      "currentSavings": 15000,
+      "monthlyContribution": 5000,
+      "remainingAmount": 45000,
+      "estimatedMonths": 9,
+      "progressPercentage": 25
+    },
+
+    "validation": {
+      "goalName": {
+        "required": true,
+        "message": "Please enter a goal name."
+      },
+      "targetAmount": {
+        "required": true,
+        "minimum": 1,
+        "message": "Please enter a valid target amount."
+      },
+      "currentSavings": {
+        "required": true,
+        "minimum": 0,
+        "message": "Current savings cannot be negative."
+      },
+      "monthlyContribution": {
+        "required": true,
+        "minimum": 1,
+        "message": "Monthly contribution must be greater than zero."
+      }
+    },
+
+    "tips": [
+      "Set a realistic savings target.",
+      "Contribute a fixed amount regularly.",
+      "Track your progress each month.",
+      "Avoid unnecessary spending when working toward your goal."
+    ],
+
+    "educationalNote": "The estimated time is a learning calculation based on the values entered. Actual results may vary."
+  }
+}

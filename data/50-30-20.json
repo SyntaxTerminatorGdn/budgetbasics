@@ -1,0 +1,77 @@
+{
+  "budgetRule": {
+    "title": "50-30-20 Budget Rule",
+    "description": "An educational budgeting guideline that divides monthly income into needs, wants, and savings.",
+
+    "percentages": {
+      "needs": 50,
+      "wants": 30,
+      "savings": 20
+    },
+
+    "categories": [
+      {
+        "id": 1,
+        "name": "Needs",
+        "percentage": 50,
+        "description": "Essential expenses such as food, transportation, education, and basic utilities."
+      },
+      {
+        "id": 2,
+        "name": "Wants",
+        "percentage": 30,
+        "description": "Optional expenses such as entertainment, shopping, and other non-essential purchases."
+      },
+      {
+        "id": 3,
+        "name": "Savings",
+        "percentage": 20,
+        "description": "Money set aside for savings goals and future needs."
+      }
+    ],
+
+    "calculator": {
+      "input": {
+        "name": "monthlyIncome",
+        "label": "Monthly Income",
+        "type": "number",
+        "placeholder": "Enter your monthly income",
+        "required": true
+      },
+
+      "formulas": {
+        "needs": "monthlyIncome * 0.50",
+        "wants": "monthlyIncome * 0.30",
+        "savings": "monthlyIncome * 0.20"
+      },
+
+      "sampleCalculation": {
+        "monthlyIncome": 30000,
+        "needs": 15000,
+        "wants": 9000,
+        "savings": 6000
+      }
+    },
+
+    "validation": {
+      "empty": "Please enter your monthly income.",
+      "invalid": "Please enter a valid number.",
+      "negative": "Monthly income cannot be negative.",
+      "zero": "Please enter an amount greater than zero."
+    },
+
+    "resultLabels": {
+      "needs": "50% Needs",
+      "wants": "30% Wants",
+      "savings": "20% Savings"
+    },
+
+    "educationalNote": "The 50-30-20 split is an educational guideline, not a fixed rule. It may be adjusted according to an individual's circumstances and priorities.",
+
+    "displayOptions": [
+      "Progress Bars",
+      "Percentage Labels",
+      "Calculated Amounts"
+    ]
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "site": {
+    "name": "BudgetBasics",
+    "theme": "NextGen BudgetBee",
+    "tagline": "Learn Today. Budget Smart. Save Tomorrow.",
+    "welcomeMessage": "Welcome to BudgetBasics!",
+    "welcomeDescription": "A simple and interactive way for students to learn budgeting, saving, and smart money management."
+  },
+
+  "featuredTips": [
+    {
+      "title": "Track Your Spending",
+      "description": "Keep track of your daily expenses to understand where your money goes."
+    },
+    {
+      "title": "Separate Needs from Wants",
+      "description": "Identify essential expenses before spending money on optional items."
+    },
+    {
+      "title": "Set a Savings Goal",
+      "description": "Choose a clear savings target and contribute regularly."
+    },
+    {
+      "title": "Plan Before You Spend",
+      "description": "Create a simple budget before making purchases."
+    }
+  ],
+
+  "quickFacts": [
+    {
+      "fact": "A budget helps you plan how to use your income."
+    },
+    {
+      "fact": "Small expenses can add up over time."
+    },
+    {
+      "fact": "Saving regularly can help you reach financial goals."
+    },
+    {
+      "fact": "Needs are generally more important than wants."
+    }
+  ],
+
+  "callToAction": {
+    "title": "Start Your Budgeting Journey",
+    "description": "Explore our tools and learn simple ways to manage your money.",
+    "buttons": [
+      {
+        "text": "Create a Budget",
+        "target": "expense-planner"
+      },
+      {
+        "text": "Set a Savings Goal",
+        "target": "savings-goals"
+      },
+      {
+        "text": "Learn Budgeting",
+        "target": "budgeting-basics"
+      }
+    ]
+  },
+
+  "visitorCounter": {
+    "enabled": true,
+    "label": "Visitors",
+    "initialCount": 1000
+  },
+
+  "dateTime": {
+    "showDate": true,
+    "showTime": true,
+    "format": "DD/MM/YYYY"
+  },
+
+  "sitemap": {
+    "enabled": true,
+    "text": "View Sitemap",
+    "target": "sitemap"
+  }
+}

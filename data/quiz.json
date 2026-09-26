@@ -1,0 +1,81 @@
+{
+  "quiz": {
+    "title": "Budgeting Basics - Knowledge Check",
+    "description": "Test your understanding of basic budgeting concepts.",
+
+    "questions": [
+      {
+        "id": 1,
+        "question": "What is the main purpose of a budget?",
+        "options": [
+          "To spend all your money",
+          "To plan how you will use your income",
+          "To avoid saving money",
+          "To buy unnecessary items"
+        ],
+        "correctAnswer": "To plan how you will use your income",
+        "feedback": "Correct! A budget helps you plan your income, expenses, and savings."
+      },
+      {
+        "id": 2,
+        "question": "Which of the following is usually a fixed expense?",
+        "options": [
+          "Rent",
+          "Snacks",
+          "Entertainment",
+          "Impulse purchases"
+        ],
+        "correctAnswer": "Rent",
+        "feedback": "Correct! Rent is generally a regular fixed expense."
+      },
+      {
+        "id": 3,
+        "question": "Which expense can change from month to month?",
+        "options": [
+          "Variable expense",
+          "Fixed expense",
+          "Savings goal",
+          "Income source"
+        ],
+        "correctAnswer": "Variable expense",
+        "feedback": "Correct! Variable expenses can change depending on your spending."
+      },
+      {
+        "id": 4,
+        "question": "Which of these is generally a need?",
+        "options": [
+          "Basic food",
+          "Luxury watch",
+          "Video game",
+          "Unnecessary shopping"
+        ],
+        "correctAnswer": "Basic food",
+        "feedback": "Correct! Basic food is an essential need."
+      },
+      {
+        "id": 5,
+        "question": "Why is saving money important?",
+        "options": [
+          "It helps prepare for future goals",
+          "It increases unnecessary spending",
+          "It prevents budgeting",
+          "It encourages impulse buying"
+        ],
+        "correctAnswer": "It helps prepare for future goals",
+        "feedback": "Correct! Saving can help you work toward future financial goals."
+      }
+    ],
+
+    "resultMessages": {
+      "excellent": "Excellent! You understand the basic budgeting concepts.",
+      "good": "Good job! Review the topics you missed and try again.",
+      "needsPractice": "Keep practicing! Review the Budgeting Basics section and try again."
+    },
+
+    "scoring": {
+      "totalQuestions": 5,
+      "correctAnswerPoints": 1,
+      "maximumScore": 5
+    }
+  }
+}

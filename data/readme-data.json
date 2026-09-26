@@ -1,0 +1,76 @@
+{
+  "project": {
+    "name": "BudgetBasics",
+    "theme": "NextGen BudgetBee",
+    "category": "Web Innovation Unleashed",
+    "description": "An educational budgeting website designed to help students learn budgeting, saving, spending, and basic money management."
+  },
+
+  "technology": {
+    "frontend": [
+      "HTML5",
+      "CSS3",
+      "JavaScript"
+    ],
+    "optionalLibraries": [
+      "Bootstrap",
+      "jQuery"
+    ],
+    "dataStorage": "JSON files",
+    "backend": false,
+    "database": false
+  },
+
+  "installation": {
+    "steps": [
+      "Download or extract the BudgetBasics project folder.",
+      "Open the project folder in a code editor.",
+      "Make sure all JSON files are inside the data folder.",
+      "Open index.html in a web browser.",
+      "For best results, run the project using a local development server."
+    ]
+  },
+
+  "projectAssumptions": [
+    "The website is intended for educational purposes.",
+    "No user account or login system is required.",
+    "No backend database is used.",
+    "Calculator results are generated on the client side.",
+    "Expense Planner data is temporary and does not require server storage.",
+    "Feedback and contact forms use client-side validation only.",
+    "Predefined content is stored in JSON files.",
+    "Financial examples are educational estimates and not professional financial advice."
+  ],
+
+  "dataFiles": [
+    "chatbot.json",
+    "tips.json",
+    "categories.json",
+    "mistakes.json",
+    "infographics.json",
+    "budgeting.json",
+    "savings.json",
+    "needs-wants.json",
+    "expense-planner.json",
+    "50-30-20.json",
+    "search-data.json",
+    "feedback.json",
+    "contact.json",
+    "about.json",
+    "site-content.json",
+    "navigation.json",
+    "footer.json",
+    "sitemap.json",
+    "quiz.json",
+    "ui-settings.json"
+  ],
+
+  "importantNotes": [
+    "Do not store sensitive personal information.",
+    "All calculator inputs should be validated before calculations.",
+    "Negative and invalid numeric values should be rejected where applicable.",
+    "The website should work on desktop, tablet, and mobile devices.",
+    "Images should include appropriate alternative text.",
+    "The AI chatbot should provide a safe fallback for questions outside budgeting topics."
+  ]
+}

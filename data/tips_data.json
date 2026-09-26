@@ -1,0 +1,108 @@
+{
+  "ticker_quotes": [
+    "“Beware of little expenses; a small leak will sink a great ship.” – Benjamin Franklin",
+    "“A budget is telling your money where to go instead of wondering where it went.” – Dave Ramsey",
+    "“Student Life Tip: Always flash your student ID—discounts add up to hundreds of dollars a semester!”",
+    "“NextGen BudgetBee: Small consistent savings during college build huge financial freedom tomorrow.”"
+  ],
+  "quick_facts": [
+    {
+      "title": "70% of College Students",
+      "subtitle": "feel stressed about personal finances without a structured budget plan."
+    },
+    {
+      "title": "50-30-20 Benchmark",
+      "subtitle": "allocates 50% for essentials, 30% for lifestyle, and 20% for future security."
+    },
+    {
+      "title": "$150+ Saved Monthly",
+      "subtitle": "by students who audit zombie subscriptions and cook at home twice a week."
+    },
+    {
+      "title": "The Power of Consistency",
+      "subtitle": "Saving just $25/month builds a $300 emergency cushion in your very first year."
+    }
+  ],
+  "searchable_tips": [
+    {
+      "id": 1,
+      "title": "Master the 24-Hour Delay Rule",
+      "topic": "spending",
+      "category": "Spending Habits",
+      "date": "2026-09-01",
+      "summary": "When browsing online or walking through campus shops, never purchase non-essential items immediately. Give yourself 24 hours.",
+      "content": "Most impulse urges peak within the first 15 minutes of emotional excitement. By giving yourself 24 hours, you step out of the dopamine loop and evaluate if the item is truly worth your hard-earned allowance."
+    },
+    {
+      "id": 2,
+      "title": "The Student Subscription Audit",
+      "topic": "expenses",
+      "category": "Expenses",
+      "date": "2026-09-05",
+      "summary": "Check your bank notifications for auto-renewals on streaming, apps, gym memberships, and trial software.",
+      "content": "Students frequently sign up for 7-day free trials and forget to cancel. Make it a habit on the 1st of every month to inspect recurring charges and cancel any service you haven't used in the last 14 days."
+    },
+    {
+      "id": 3,
+      "title": "Build a $250 Starter Safety Cushion",
+      "topic": "saving",
+      "category": "Saving",
+      "date": "2026-09-10",
+      "summary": "Don't aim for a massive $5,000 emergency fund on day one. Start with a manageable $250 safety buffer.",
+      "content": "A $250 emergency fund protects you when unexpected student mishaps occur—such as needing an emergency textbook code, replacement phone charger, or urgent prescription medicine without borrowing from friends."
+    },
+    {
+      "id": 4,
+      "title": "Distinguish Needs vs Wants with Context",
+      "topic": "needs",
+      "category": "Needs vs Wants",
+      "date": "2026-09-12",
+      "summary": "A laptop is a student need; the top-of-the-line RGB gaming rig is a want. Learn how context defines your categories.",
+      "content": "Needs keep your health, safety, and academic enrollment intact. Wants bring pleasure and comfort. Understanding that you can enjoy wants without putting your needs in jeopardy is the key to guilt-free budgeting."
+    },
+    {
+      "id": 5,
+      "title": "Tackle the 'Latte Factor'",
+      "topic": "expenses",
+      "category": "Expenses",
+      "date": "2026-09-15",
+      "summary": "Buying a $4.50 specialty coffee every weekday equals $90 a month and over $1,000 a year.",
+      "content": "Small daily micro-purchases feel negligible in the moment, but they create a quiet leak in student wallets. Brewing coffee in your dorm or carrying a thermal flask can preserve nearly $100 every single month."
+    },
+    {
+      "id": 6,
+      "title": "Set SMART Savings Goals",
+      "topic": "goals",
+      "category": "Goals",
+      "date": "2026-09-18",
+      "summary": "Vague goals like 'I want to save money' fail. Specific goals like 'Save $400 for a laptop by December' succeed.",
+      "content": "Break your target amount into monthly contributions. If you need $400 in 4 months, commit to $100 per month. Tracking your progress on a visual milestone bar boosts dopamine and reinforces positive financial behavior."
+    },
+    {
+      "id": 7,
+      "title": "Zero-Based Student Budgeting",
+      "topic": "budgeting",
+      "category": "Budgeting Basics",
+      "date": "2026-09-20",
+      "summary": "Give every single dollar a job before the month starts so no money disappears without a trace.",
+      "content": "Income minus expenses and planned savings should equal zero. If you have $20 left over after planning, intentionally assign that $20 to your savings goal or emergency fund rather than leaving it in checking where it will evaporate."
+    },
+    {
+      "id": 8,
+      "title": "Leverage Student Discounts Everywhere",
+      "topic": "spending",
+      "category": "Spending Habits",
+      "date": "2026-09-22",
+      "summary": "From Spotify to transit passes, Adobe to grocery stores, student discounts save you 20% to 60%.",
+      "content": "Always carry your university student ID card or verify with UNiDAYS/Student Beans. Never pay full retail price for software, streaming, transit, cinema tickets, or electronics while enrolled in school."
+    }
+  ],
+  "ai_spending_tips": [
+    "Tip: Prepare a weekly meal prep plan with friends. Group grocery shopping cuts food costs by up to 35%!",
+    "Tip: Use your college library before buying textbooks. Many professors place course copies on 2-hour reserve.",
+    "Tip: Keep your savings in a separate account so you aren't tempted to swipe it for weekend takeout.",
+    "Tip: Set up automated transfers on the day your allowance or paycheck arrives—pay yourself first!",
+    "Tip: Before checking out online, leave the cart alone for an hour. Retailers often email discount codes!",
+    "Tip: Use transit passes or campus bikes instead of ride-hailing apps for short journeys under 2 miles."
+  ]
+}

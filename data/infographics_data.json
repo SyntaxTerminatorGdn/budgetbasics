@@ -1,0 +1,48 @@
+{
+  "infographics": [
+    {
+      "id": "info_needs_wants",
+      "topic": "needs_wants",
+      "category": "Needs vs Wants",
+      "title": "Needs vs Wants: The Student Matrix",
+      "caption": "A clear visual comparison between essential student requirements for academic survival and optional lifestyle wants.",
+      "alt": "Infographic showing side-by-side comparison of student needs like groceries, rent, transit, books versus wants like gaming, takeout, designer fashion, and streaming",
+      "badge": "Decision Matrix",
+      "readTime": "3 min visual",
+      "type": "matrix"
+    },
+    {
+      "id": "info_50_30_20",
+      "topic": "budgeting",
+      "category": "Budgeting",
+      "title": "The 50-30-20 Student Split Flow",
+      "caption": "How to funnel every monthly allowance or internship paycheck into 50% Needs, 30% Wants, and 20% Future Savings.",
+      "alt": "Circular flow diagram showing total monthly income splitting into 50 percent for essentials, 30 percent for lifestyle, and 20 percent for savings and debt buffer",
+      "badge": "Rule Framework",
+      "readTime": "2 min visual",
+      "type": "circular_split"
+    },
+    {
+      "id": "info_budget_cycle",
+      "topic": "budgeting",
+      "category": "Budgeting",
+      "title": "The 4-Step Monthly Student Budget Cycle",
+      "caption": "A cyclical journey every student can repeat each month: 1. Earn/Receive, 2. Plan Allocations, 3. Track Daily, 4. Review & Optimize.",
+      "alt": "4-phase circular flowchart explaining the recurring student monthly budgeting cycle from income to planning, tracking, and month-end review",
+      "badge": "Action Cycle",
+      "readTime": "4 min visual",
+      "type": "cycle"
+    },
+    {
+      "id": "info_savings_challenge",
+      "topic": "saving",
+      "category": "Savings",
+      "title": "3 Student Friendly Savings Challenges",
+      "caption": "Gamified ways to save money without feeling deprived: The 52-Week Challenge, the $5 Spare Change Challenge, and the Zero-Spend Weekend.",
+      "alt": "Visual chart comparing 3 student savings challenges with achievable monthly milestones and reward incentives",
+      "badge": "Savings Playbook",
+      "readTime": "3 min visual",
+      "type": "challenges"
+    }
+  ]
+}

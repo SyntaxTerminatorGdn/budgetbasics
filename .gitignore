@@ -1,0 +1,40 @@
+# Dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# Testing
+/coverage
+
+# Production / Production Builds
+/build
+/dist
+/dist-ssr
+/*.parseapp
+
+# Miscellaneous / Logs
+.DS_Store
+.apple
+Thumbs.db
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Local environment files (Contains sensitive API keys/secrets)
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# IDEs and Editors
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+.eslintcache

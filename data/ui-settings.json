@@ -1,0 +1,52 @@
+{
+  "uiSettings": {
+    "theme": {
+      "default": "light",
+      "darkMode": {
+        "enabled": true,
+        "toggleLabel": "Dark Mode"
+      }
+    },
+
+    "animations": {
+      "enabled": true,
+      "cardTransitions": true,
+      "smoothScrolling": true
+    },
+
+    "navigation": {
+      "activeState": true,
+      "hoverState": true,
+      "focusState": true,
+      "mobileMenu": true
+    },
+
+    "accessibility": {
+      "keyboardNavigation": true,
+      "visibleFocus": true,
+      "readableText": true,
+      "altTextForImages": true
+    },
+
+    "responsive": {
+      "enabled": true,
+      "devices": [
+        "Desktop",
+        "Tablet",
+        "Mobile"
+      ]
+    },
+
+    "tipsTicker": {
+      "enabled": true,
+      "speed": "medium",
+      "pauseOnHover": true
+    },
+
+    "backToTop": {
+      "enabled": true,
+      "showAfterScroll": true,
+      "label": "Back to Top"
+    }
+  }
+}

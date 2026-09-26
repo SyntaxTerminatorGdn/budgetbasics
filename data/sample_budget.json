@@ -1,0 +1,106 @@
+{
+  "profiles": [
+    {
+      "id": "dorm_student",
+      "profileName": "On-Campus Dorm Resident",
+      "monthlyIncome": 800,
+      "incomeSources": [
+        {"name": "Monthly Allowance", "amount": 500},
+        {"name": "Campus Work-Study", "amount": 300}
+      ],
+      "breakdown": {
+        "needs": [
+          {"category": "Food & Meal Plan Top-up", "amount": 250, "type": "Need"},
+          {"category": "Dorm Supplies & Laundry", "amount": 60, "type": "Need"},
+          {"category": "Course Books & Printing", "amount": 50, "type": "Need"},
+          {"category": "Transit Pass", "amount": 40, "type": "Need"}
+        ],
+        "wants": [
+          {"category": "Weekend Dining & Cafes", "amount": 120, "type": "Want"},
+          {"category": "Streaming & Music", "amount": 20, "type": "Want"},
+          {"category": "Gaming & Tech Gadgets", "amount": 60, "type": "Want"},
+          {"category": "Clothing & Social Events", "amount": 40, "type": "Want"}
+        ],
+        "savings": [
+          {"category": "Emergency Tech Fund", "amount": 100, "type": "Savings"},
+          {"category": "Summer Travel Goal", "amount": 60, "type": "Savings"}
+        ]
+      },
+      "summary": {
+        "totalNeeds": 400,
+        "totalWants": 240,
+        "totalSavings": 160,
+        "needsPercentage": 50,
+        "wantsPercentage": 30,
+        "savingsPercentage": 20
+      }
+    },
+    {
+      "id": "commuter_student",
+      "profileName": "College Commuter Student",
+      "monthlyIncome": 650,
+      "incomeSources": [
+        {"name": "Parental Allowance", "amount": 350},
+        {"name": "Weekend Tutoring", "amount": 300}
+      ],
+      "breakdown": {
+        "needs": [
+          {"category": "Public Transit / Metro Pass", "amount": 110, "type": "Need"},
+          {"category": "Campus Lunches", "amount": 120, "type": "Need"},
+          {"category": "Mobile & Internet Plan", "amount": 45, "type": "Need"},
+          {"category": "Stationery & Textbooks", "amount": 50, "type": "Need"}
+        ],
+        "wants": [
+          {"category": "Coffee & Snack Runs", "amount": 75, "type": "Want"},
+          {"category": "Social Outings & Movies", "amount": 80, "type": "Want"},
+          {"category": "Gym & Sports Gear", "amount": 40, "type": "Want"}
+        ],
+        "savings": [
+          {"category": "New Laptop Savings", "amount": 80, "type": "Savings"},
+          {"category": "Emergency Buffer", "amount": 50, "type": "Savings"}
+        ]
+      },
+      "summary": {
+        "totalNeeds": 325,
+        "totalWants": 195,
+        "totalSavings": 130,
+        "needsPercentage": 50,
+        "wantsPercentage": 30,
+        "savingsPercentage": 20
+      }
+    },
+    {
+      "id": "intern_student",
+      "profileName": "Paid Summer Intern",
+      "monthlyIncome": 1200,
+      "incomeSources": [
+        {"name": "Internship Stipend", "amount": 1200}
+      ],
+      "breakdown": {
+        "needs": [
+          {"category": "Shared Apartment Rent", "amount": 450, "type": "Need"},
+          {"category": "Groceries & Cooking", "amount": 200, "type": "Need"},
+          {"category": "Commute & Train Fare", "amount": 80, "type": "Need"},
+          {"category": "Phone & Utility Share", "amount": 70, "type": "Need"}
+        ],
+        "wants": [
+          {"category": "Team Dinners & Hangouts", "amount": 150, "type": "Want"},
+          {"category": "Professional Attire", "amount": 110, "type": "Want"},
+          {"category": "Entertainment & Music", "amount": 40, "type": "Want"}
+        ],
+        "savings": [
+          {"category": "Tuition Semester Buffer", "amount": 150, "type": "Savings"},
+          {"category": "High-Yield Student Savings", "amount": 100, "type": "Savings"}
+        ]
+      },
+      "summary": {
+        "totalNeeds": 800,
+        "totalWants": 300,
+        "totalSavings": 250,
+        "needsPercentage": 53.3,
+        "wantsPercentage": 25.0,
+        "savingsPercentage": 21.7
+      }
+    }
+  ]
+}

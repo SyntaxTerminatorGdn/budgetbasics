@@ -1,0 +1,105 @@
+{
+  "needsVsWants": {
+    "title": "Needs vs Wants",
+    "description": "Learn how to identify essential expenses and optional spending.",
+
+    "categories": {
+      "needs": {
+        "title": "Needs",
+        "description": "Things that are essential for daily life, education, or basic responsibilities.",
+        "examples": [
+          "Food",
+          "Education",
+          "Transportation",
+          "Basic Utilities",
+          "Required Study Materials"
+        ]
+      },
+      "wants": {
+        "title": "Wants",
+        "description": "Things that are optional and can be delayed or avoided when necessary.",
+        "examples": [
+          "Entertainment",
+          "Expensive Shopping",
+          "Video Games",
+          "Optional Upgrades",
+          "Eating Out"
+        ]
+      }
+    },
+
+    "questions": [
+      {
+        "id": 1,
+        "item": "Buying basic groceries",
+        "correctAnswer": "Need",
+        "feedback": "Correct! Basic food is an essential requirement."
+      },
+      {
+        "id": 2,
+        "item": "Buying a new video game",
+        "correctAnswer": "Want",
+        "feedback": "Correct! A video game is optional and can usually be delayed."
+      },
+      {
+        "id": 3,
+        "item": "Paying for required transportation",
+        "correctAnswer": "Need",
+        "feedback": "Correct! Required transportation can be an essential expense."
+      },
+      {
+        "id": 4,
+        "item": "Buying expensive clothes when you already have enough",
+        "correctAnswer": "Want",
+        "feedback": "Correct! Buying extra clothes when they are not needed is generally a want."
+      },
+      {
+        "id": 5,
+        "item": "Buying required study materials",
+        "correctAnswer": "Need",
+        "feedback": "Correct! Required study materials support education."
+      },
+      {
+        "id": 6,
+        "item": "Going to the cinema for entertainment",
+        "correctAnswer": "Want",
+        "feedback": "Correct! Entertainment is generally optional."
+      },
+      {
+        "id": 7,
+        "item": "Paying for basic internet needed for studies",
+        "correctAnswer": "Need",
+        "feedback": "Correct! Internet may be a necessary expense when it is required for education."
+      },
+      {
+        "id": 8,
+        "item": "Buying the latest phone when your current phone works",
+        "correctAnswer": "Want",
+        "feedback": "Correct! An unnecessary upgrade is generally a want."
+      }
+    ],
+
+    "decisionGuide": [
+      {
+        "question": "Is this essential for daily life or an important responsibility?",
+        "ifYes": "It may be a Need.",
+        "ifNo": "Continue to the next question."
+      },
+      {
+        "question": "Can I live without buying this right now?",
+        "ifYes": "It may be a Want.",
+        "ifNo": "Consider whether it is an essential expense."
+      },
+      {
+        "question": "Can I delay this purchase?",
+        "ifYes": "Consider waiting before purchasing.",
+        "ifNo": "Check whether it is genuinely necessary."
+      }
+    ],
+
+    "generalFeedback": {
+      "correct": "Great job! You correctly identified the category.",
+      "incorrect": "Not quite. Think about whether the item is essential or optional before deciding."
+    }
+  }
+}

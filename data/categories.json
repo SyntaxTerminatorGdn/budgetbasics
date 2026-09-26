@@ -1,0 +1,39 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Food",
+      "description": "Expenses for meals, snacks, groceries, and drinks."
+    },
+    {
+      "id": 2,
+      "name": "Transport",
+      "description": "Expenses for buses, fuel, ride services, and other transportation."
+    },
+    {
+      "id": 3,
+      "name": "Education",
+      "description": "Expenses related to books, courses, stationery, and learning resources."
+    },
+    {
+      "id": 4,
+      "name": "Entertainment",
+      "description": "Expenses for movies, games, outings, and other entertainment activities."
+    },
+    {
+      "id": 5,
+      "name": "Shopping",
+      "description": "Expenses for clothes, accessories, personal items, and other purchases."
+    },
+    {
+      "id": 6,
+      "name": "Utilities",
+      "description": "Expenses such as electricity, internet, mobile services, and other basic utilities."
+    },
+    {
+      "id": 7,
+      "name": "Miscellaneous",
+      "description": "Other expenses that do not fit into the main categories."
+    }
+  ]
+}

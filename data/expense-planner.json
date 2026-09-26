@@ -1,0 +1,108 @@
+{
+  "expensePlanner": {
+    "title": "Expense Planner",
+    "description": "Add and manage sample expenses to understand planned spending and remaining balance.",
+
+    "fields": [
+      {
+        "name": "date",
+        "label": "Date",
+        "type": "date",
+        "required": true
+      },
+      {
+        "name": "category",
+        "label": "Category",
+        "type": "select",
+        "required": true,
+        "options": [
+          "Food",
+          "Transport",
+          "Education",
+          "Entertainment",
+          "Shopping",
+          "Utilities",
+          "Miscellaneous"
+        ]
+      },
+      {
+        "name": "description",
+        "label": "Description",
+        "type": "text",
+        "required": true,
+        "placeholder": "Enter expense description"
+      },
+      {
+        "name": "amount",
+        "label": "Amount",
+        "type": "number",
+        "required": true,
+        "minimum": 0,
+        "placeholder": "Enter amount"
+      }
+    ],
+
+    "sampleBudget": {
+      "monthlyIncome": 30000,
+      "sampleExpenses": [
+        {
+          "id": 1,
+          "date": "2026-09-01",
+          "category": "Food",
+          "description": "Monthly groceries",
+          "amount": 5000
+        },
+        {
+          "id": 2,
+          "date": "2026-09-03",
+          "category": "Transport",
+          "description": "Bus and ride expenses",
+          "amount": 3000
+        },
+        {
+          "id": 3,
+          "date": "2026-09-05",
+          "category": "Education",
+          "description": "Books and stationery",
+          "amount": 2500
+        },
+        {
+          "id": 4,
+          "date": "2026-09-08",
+          "category": "Entertainment",
+          "description": "Movie and outing",
+          "amount": 1500
+        },
+        {
+          "id": 5,
+          "date": "2026-09-10",
+          "category": "Shopping",
+          "description": "Personal items",
+          "amount": 2000
+        }
+      ],
+      "totalPlannedExpenses": 14000,
+      "remainingBalance": 16000
+    },
+
+    "calculations": {
+      "totalPlannedExpenses": "sum of all expense amounts",
+      "remainingBalance": "monthlyIncome - totalPlannedExpenses"
+    },
+
+    "actions": [
+      "Add expense",
+      "Edit expense",
+      "Remove expense"
+    ],
+
+    "validation": {
+      "date": "Please select a valid date.",
+      "category": "Please select an expense category.",
+      "description": "Please enter an expense description.",
+      "amount": "Please enter a valid amount greater than zero."
+    },
+
+    "note": "Expense entries are temporary demonstration data and do not need to be saved to a server."
+  }
+}

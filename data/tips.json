@@ -1,0 +1,76 @@
+{
+  "tips": [
+    {
+      "id": 1,
+      "title": "Track Your Expenses",
+      "category": "Budgeting",
+      "tip": "Write down or record your daily expenses so you know where your money is going."
+    },
+    {
+      "id": 2,
+      "title": "Create a Monthly Budget",
+      "category": "Budgeting",
+      "tip": "Plan your expected income and expenses before starting each month."
+    },
+    {
+      "id": 3,
+      "title": "Separate Needs and Wants",
+      "category": "Spending",
+      "tip": "Before buying something, ask yourself whether it is a need or simply a want."
+    },
+    {
+      "id": 4,
+      "title": "Set a Savings Goal",
+      "category": "Saving",
+      "tip": "Choose a specific savings target and decide how much you can contribute every month."
+    },
+    {
+      "id": 5,
+      "title": "Save Before Spending",
+      "category": "Saving",
+      "tip": "Set aside your planned savings amount before spending money on optional purchases."
+    },
+    {
+      "id": 6,
+      "title": "Avoid Impulse Buying",
+      "category": "Money Mistakes",
+      "tip": "Wait before making an unplanned purchase and decide whether you really need it."
+    },
+    {
+      "id": 7,
+      "title": "Watch Small Expenses",
+      "category": "Money Mistakes",
+      "tip": "Small daily purchases can add up over time, so include them in your budget."
+    },
+    {
+      "id": 8,
+      "title": "Review Subscriptions",
+      "category": "Money Mistakes",
+      "tip": "Check your subscriptions regularly and identify services that you no longer use."
+    },
+    {
+      "id": 9,
+      "title": "Plan Before Shopping",
+      "category": "Spending",
+      "tip": "Make a shopping list and try to avoid unnecessary purchases."
+    },
+    {
+      "id": 10,
+      "title": "Keep an Emergency Fund",
+      "category": "Saving",
+      "tip": "Set aside some money for unexpected expenses whenever possible."
+    },
+    {
+      "id": 11,
+      "title": "Review Your Budget",
+      "category": "Budgeting",
+      "tip": "Review your spending regularly and adjust your budget when your circumstances change."
+    },
+    {
+      "id": 12,
+      "title": "Compare Before Buying",
+      "category": "Spending",
+      "tip": "Compare available options before making a purchase so you can make a planned decision."
+    }
+  ]
+}

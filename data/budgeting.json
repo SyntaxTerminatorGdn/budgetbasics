@@ -1,0 +1,118 @@
+{
+  "budgetingBasics": {
+    "title": "Budgeting Basics",
+    "introduction": "A budget is a simple plan that helps you understand how your income is used for expenses, wants, and savings.",
+
+    "concepts": [
+      {
+        "id": 1,
+        "title": "Income",
+        "description": "Money that you receive from sources such as allowance, scholarship, internship income, or part-time earnings.",
+        "examples": [
+          "Monthly allowance",
+          "Scholarship",
+          "Part-time income",
+          "Internship income"
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Fixed Expenses",
+        "description": "Expenses that usually stay the same or change very little each month.",
+        "examples": [
+          "Regular transport cost",
+          "Monthly internet bill",
+          "Regular education payment"
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Variable Expenses",
+        "description": "Expenses that can change from month to month depending on your spending.",
+        "examples": [
+          "Food",
+          "Entertainment",
+          "Shopping",
+          "Snacks"
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Requirements",
+        "description": "Essential things that are necessary for daily life, education, or basic responsibilities.",
+        "examples": [
+          "Food",
+          "Education",
+          "Transportation",
+          "Basic utilities"
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Wants",
+        "description": "Things that you would like to have but can live without.",
+        "examples": [
+          "Entertainment",
+          "Extra shopping",
+          "Games",
+          "Optional upgrades"
+        ]
+      },
+      {
+        "id": 6,
+        "title": "Savings",
+        "description": "Money that you set aside for future goals or unexpected expenses.",
+        "examples": [
+          "Savings goal",
+          "Emergency savings",
+          "Future purchase"
+        ]
+      }
+    ],
+
+    "sampleMonthlyBudget": {
+      "title": "Sample Student Monthly Budget",
+      "currency": "PKR",
+      "monthlyIncome": 30000,
+      "expenses": [
+        {
+          "category": "Food",
+          "amount": 6000
+        },
+        {
+          "category": "Transport",
+          "amount": 4500
+        },
+        {
+          "category": "Education",
+          "amount": 4000
+        },
+        {
+          "category": "Utilities",
+          "amount": 2500
+        },
+        {
+          "category": "Entertainment",
+          "amount": 3000
+        },
+        {
+          "category": "Shopping",
+          "amount": 2000
+        }
+      ],
+      "savings": 8000
+    },
+
+    "knowledgeCheck": {
+      "question": "Which of the following is usually considered a want?",
+      "options": [
+        "Food",
+        "Education",
+        "Entertainment",
+        "Transportation"
+      ],
+      "correctAnswer": "Entertainment",
+      "feedback": "Entertainment is generally a want because it is optional rather than essential."
+    }
+  }
+}

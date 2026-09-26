@@ -1,0 +1,71 @@
+{
+  "navigation": {
+    "brand": {
+      "name": "BudgetBasics",
+      "tagline": "NextGen BudgetBee"
+    },
+
+    "menu": [
+      {
+        "id": "home",
+        "label": "Home",
+        "target": "home"
+      },
+      {
+        "id": "budgeting-basics",
+        "label": "Budgeting Basics",
+        "target": "budgeting-basics"
+      },
+      {
+        "id": "needs-wants",
+        "label": "Needs vs Wants",
+        "target": "needs-wants"
+      },
+      {
+        "id": "50-30-20",
+        "label": "50-30-20",
+        "target": "50-30-20"
+      },
+      {
+        "id": "savings-goals",
+        "label": "Savings Goals",
+        "target": "savings-goals"
+      },
+      {
+        "id": "expense-planner",
+        "label": "Expense Planner",
+        "target": "expense-planner"
+      },
+      {
+        "id": "money-mistakes",
+        "label": "Money Mistakes",
+        "target": "money-mistakes"
+      },
+      {
+        "id": "infographics",
+        "label": "Infographics",
+        "target": "infographics"
+      },
+      {
+        "id": "ai-chatbot",
+        "label": "AI Chatbot",
+        "target": "ai-chatbot"
+      },
+      {
+        "id": "feedback",
+        "label": "Feedback",
+        "target": "feedback"
+      },
+      {
+        "id": "contact",
+        "label": "Contact Us",
+        "target": "contact"
+      }
+    ],
+
+    "mobileMenu": {
+      "enabled": true,
+      "buttonLabel": "Menu"
+    }
+  }
+}

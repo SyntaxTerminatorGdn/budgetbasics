@@ -1,0 +1,66 @@
+{
+  "faq": [
+    {
+      "id": "need_vs_want",
+      "keywords": ["need", "want", "difference", "essential", "grocery", "rent"],
+      "question": "What is the difference between a need and a want?",
+      "answer": "A **Need** is an essential required for survival and your education (such as basic food, dorm rent, course textbooks, tuition, and essential transit). A **Want** is something that enhances your lifestyle but isn't required to survive or pass your classes (such as eating out, video games, designer clothes, and premium streaming subscriptions). A great rule of thumb: If your life or studies pause without it, it's a need!"
+    },
+    {
+      "id": "how_much_save",
+      "keywords": ["save", "how much", "savings", "percentage", "amount", "monthly"],
+      "question": "How much should a student save each month?",
+      "answer": "Under the popular **50-30-20 rule**, aim to set aside **20%** of your monthly allowance or earnings for savings. However, if your student budget is tight, even **5% or 10%** ($10 to $25 per month) makes a huge difference! The habit of consistency matters far more than the initial dollar amount."
+    },
+    {
+      "id": "avoid_overspending",
+      "keywords": ["overspend", "overspending", "impulse", "stop spending", "control", "limit"],
+      "question": "How do I avoid overspending and impulse buying?",
+      "answer": "Use the **24-Hour Delay Rule**: when you feel an impulse to buy a non-essential item, wait 24 hours. Often the urge passes! Additionally: 1) Always shop with a strict list, 2) Delete saved credit card details from shopping apps, and 3) Check your remaining student balance in our Expense Planner before swiping."
+    },
+    {
+      "id": "50_30_20_rule",
+      "keywords": ["50", "30", "20", "rule", "split", "formula", "ratio"],
+      "question": "What is the 50-30-20 budgeting rule?",
+      "answer": "The 50-30-20 rule divides your total net income into 3 buckets: **50% for Needs** (housing, food, transit, basic utilities), **30% for Wants** (dining out, entertainment, hobbies), and **20% for Savings** (emergency fund, future college gear, debt payoff). Check out our interactive 50-30-20 Calculator section to see your personal breakdown!"
+    },
+    {
+      "id": "emergency_fund",
+      "keywords": ["emergency", "fund", "buffer", "unexpected", "safety net"],
+      "question": "Why do I need an emergency fund as a student?",
+      "answer": "An emergency fund protects you from unexpected expenses like a cracked phone screen, urgent dental work, textbook reprints, or sudden travel needs. Aim for a starter emergency buffer of **$250 to $500** before tackling bigger long-term savings goals."
+    },
+    {
+      "id": "subscriptions",
+      "keywords": ["subscription", "subscriptions", "recurring", "netflix", "spotify", "cancel"],
+      "question": "How do I manage and cut down on subscriptions?",
+      "answer": "Check your bank statements once every month for recurring charges. Students often pay for subscriptions they forgot about after free trials expired! Tip: Rotate your streaming services one month at a time, or use student discounts like Spotify Student or GitHub Student Developer Pack."
+    },
+    {
+      "id": "tracking_expenses",
+      "keywords": ["track", "tracking", "log", "expenses", "expense planner", "record"],
+      "question": "How do I start tracking my daily expenses?",
+      "answer": "Log every expense right after you pay, or take 2 minutes each evening to review your receipts. You can use our built-in **Expense Planner Demonstration** below to enter your daily costs by category and watch your remaining balance update automatically!"
+    },
+    {
+      "id": "income_sources",
+      "keywords": ["income", "earn", "allowance", "job", "scholarship", "internship", "part time"],
+      "question": "What counts as student income?",
+      "answer": "Student income includes monthly parental allowances, academic scholarships or stipends, part-time jobs (like on-campus tutoring or barista shifts), freelance gigs, paid internships, and monetary birthday gifts."
+    },
+    {
+      "id": "latte_factor",
+      "keywords": ["latte", "coffee", "small", "daily expenses", "micro", "snack"],
+      "question": "What is the 'Latte Factor' or small daily expense trap?",
+      "answer": "The 'Latte Factor' refers to small, seemingly harmless daily purchases—like a $4 specialty iced latte or $3 daily vending machine snacks. Spending $5 every single day adds up to **$150 per month or $1,800 a year**! Making coffee at home twice a week can instantly save you $40/month."
+    },
+    {
+      "id": "savings_goal",
+      "keywords": ["goal", "target", "savings goal", "laptop", "trip", "months"],
+      "question": "How do I set a realistic savings goal?",
+      "answer": "Make your goal **SMART**: Specific, Measurable, Achievable, Relevant, and Time-bound. For example: 'Save $600 for a new study laptop over 6 months by putting aside $100/month.' Head over to our **Savings Goals** module to calculate your exact timeline!"
+    }
+  ],
+  "fallback_response": "Bzz! I'm BeeBuddy, your NextGen BudgetBee assistant. I can help with student budgeting basics, the 50-30-20 rule, needs vs. wants, savings goals, managing subscriptions, and avoiding money mistakes. Try asking: 'What is a need?', 'How much should I save?', or 'What is the 50-30-20 rule?'",
+  "disclaimer": "Educational Disclaimer: BudgetBasics provides general educational budgeting principles and estimates for learning purposes only. It does not provide certified banking, taxation, or professional financial advice."
+}

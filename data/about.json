@@ -1,0 +1,39 @@
+{
+  "about": {
+    "title": "About BudgetBasics",
+    "theme": "NextGen BudgetBee",
+    "projectName": "BudgetBasics",
+
+    "description": "BudgetBasics is an educational website designed to help students understand basic budgeting, saving, spending, and money management concepts.",
+
+    "purpose": [
+      "Teach students the fundamentals of budgeting.",
+      "Build awareness about saving and financial goals.",
+      "Help students understand needs versus wants.",
+      "Explain the 50-30-20 budgeting guideline.",
+      "Help users identify and avoid common money mistakes.",
+      "Provide simple interactive budgeting tools and educational resources."
+    ],
+
+    "features": [
+      "Budgeting Basics",
+      "Needs vs Wants",
+      "50-30-20 Calculator",
+      "Savings Goals",
+      "Expense Planner",
+      "Money Mistakes",
+      "Infographics",
+      "AI Chatbot",
+      "Search and Filter",
+      "Feedback",
+      "Contact Us"
+    ],
+
+    "creators": {
+      "title": "Project Creators",
+      "members": []
+    },
+
+    "disclaimer": "BudgetBasics is an educational project. The information and calculators are provided for learning purposes and are not professional financial advice."
+  }
+}

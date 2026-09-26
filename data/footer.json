@@ -1,0 +1,82 @@
+
+{
+  "footer": {
+    "brand": {
+      "name": "BudgetBasics",
+      "tagline": "NextGen BudgetBee",
+      "description": "Learn smart budgeting, saving, and money management in a simple way."
+    },
+
+    "quickLinks": [
+      {
+        "label": "Home",
+        "target": "home"
+      },
+      {
+        "label": "Budgeting Basics",
+        "target": "budgeting-basics"
+      },
+      {
+        "label": "Needs vs Wants",
+        "target": "needs-wants"
+      },
+      {
+        "label": "50-30-20",
+        "target": "50-30-20"
+      },
+      {
+        "label": "Savings Goals",
+        "target": "savings-goals"
+      },
+      {
+        "label": "Expense Planner",
+        "target": "expense-planner"
+      }
+    ],
+
+    "resources": [
+      {
+        "label": "Money Mistakes",
+        "target": "money-mistakes"
+      },
+      {
+        "label": "Infographics",
+        "target": "infographics"
+      },
+      {
+        "label": "AI Chatbot",
+        "target": "ai-chatbot"
+      },
+      {
+        "label": "Feedback",
+        "target": "feedback"
+      },
+      {
+        "label": "Contact Us",
+        "target": "contact"
+      },
+      {
+        "label": "Sitemap",
+        "target": "sitemap"
+      }
+    ],
+
+    "contact": {
+      "email": "support@budgetbasics.com",
+      "phone": "+92 300 1234567"
+    },
+
+    "socialMedia": {
+      "facebook": "#",
+      "instagram": "#",
+      "linkedin": "#"
+    },
+
+    "copyright": "© 2026 BudgetBasics. All rights reserved.",
+
+    "backToTop": {
+      "enabled": true,
+      "label": "Back to Top"
+    }
+  }
+}

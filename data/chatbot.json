@@ -1,0 +1,73 @@
+{
+  "responses": [
+    {
+      "id": 1,
+      "question": "What is a need?",
+      "keywords": ["need", "needs"],
+      "answer": "A need is something essential that you require for daily life, such as food, education, transportation, and basic utilities."
+    },
+    {
+      "id": 2,
+      "question": "What is a want?",
+      "keywords": ["want", "wants"],
+      "answer": "A want is something you would like to have but can live without, such as entertainment, expensive shopping, or unnecessary upgrades."
+    },
+    {
+      "id": 3,
+      "question": "How much should I save?",
+      "keywords": ["save", "saving", "savings"],
+      "answer": "A common budgeting guideline is to save around 20% of your income. Your actual saving amount can be adjusted according to your situation."
+    },
+    {
+      "id": 4,
+      "question": "What is the 50-30-20 rule?",
+      "keywords": ["50-30-20", "50 30 20", "budget rule"],
+      "answer": "The 50-30-20 rule is an educational budgeting guideline that suggests 50% for needs, 30% for wants, and 20% for savings."
+    },
+    {
+      "id": 5,
+      "question": "How can I avoid overspending?",
+      "keywords": ["overspending", "overspend", "spending"],
+      "answer": "Track your expenses, create a monthly budget, separate needs from wants, and avoid unnecessary impulse purchases."
+    },
+    {
+      "id": 6,
+      "question": "What is a budget?",
+      "keywords": ["budget", "budgeting"],
+      "answer": "A budget is a simple plan that helps you decide how to use your income for needs, wants, expenses, and savings."
+    },
+    {
+      "id": 7,
+      "question": "How do I create a savings goal?",
+      "keywords": ["goal", "savings goal", "saving goal"],
+      "answer": "Choose a goal, enter its target amount, check your current savings, and decide how much you can contribute each month."
+    },
+    {
+      "id": 8,
+      "question": "Why should I track expenses?",
+      "keywords": ["track", "tracking", "expenses"],
+      "answer": "Tracking expenses helps you understand where your money goes and can help you identify unnecessary spending."
+    },
+    {
+      "id": 9,
+      "question": "What is impulse buying?",
+      "keywords": ["impulse", "impulse buying", "impulse purchase"],
+      "answer": "Impulse buying means purchasing something without planning or thinking about whether you actually need it."
+    },
+    {
+      "id": 10,
+      "question": "How can I save money as a student?",
+      "keywords": ["student", "student saving", "save money"],
+      "answer": "Start by tracking small expenses, reducing unnecessary purchases, setting a savings goal, and planning your monthly spending."
+    }
+  ],
+  "suggestedPrompts": [
+    "What is a need?",
+    "How much should I save?",
+    "What is the 50-30-20 rule?",
+    "How do I avoid overspending?",
+    "What is impulse buying?"
+  ],
+  "fallback": "Sorry, I can only answer basic educational questions about budgeting, saving, expenses, needs, wants, and money habits.",
+  "disclaimer": "This chatbot provides basic educational information only and is not professional financial advice."
+}
