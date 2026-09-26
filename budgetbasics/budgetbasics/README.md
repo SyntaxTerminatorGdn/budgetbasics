@@ -31,5 +31,3 @@ Expenses and calculator values are held in browser memory for the current sessio
 - Add official social-profile URLs to `data/contact.json` if the project has them; otherwise leave the list empty.
 - Record and include the required MP4 demonstration video. The project report includes a scene checklist; this repository does not contain a screen recording.
 - Review and run the manual scenarios in `docs/test-cases.md` on the target browsers and devices. Do not treat the expected results as executed test results.
-"# budgetbasics" 
-"# budgetbasics" 
